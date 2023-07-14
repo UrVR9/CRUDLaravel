@@ -1,1 +1,0 @@
-El respaldo de la BD y los datos de conexión se encuentran en la carpeta database_backup.
